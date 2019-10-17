@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo em100 --stop --set S25FL128P -d $1 -v --start
